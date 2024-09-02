@@ -39,4 +39,4 @@ To set up this server project locally, follow these steps:
    Server is running on PORT: 5000
    Database is connected
    ```
-11. Add a few categories value in your database before proceeding to clone the client side.
+11. Add a few categories value in your database before proceeding to clone the client side. (the categories that will appear when users use the web app, can't be changed by users)
